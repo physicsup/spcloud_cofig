@@ -1,3 +1,4 @@
-
+server:
+  port: 9093
 key1:
   key11: hello1
