@@ -1,4 +1,4 @@
 server:
-  port: 9093
+  port: 9094
 key1:
   key11: hello1
